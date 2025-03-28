@@ -1,0 +1,145 @@
+﻿@model DefineXWeb.ViewModels.ProductViewModel
+
+<div class="container">
+    <h4>Edit Product</h4>
+    <hr />
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    <form asp-action="ProductEdit" method="post" enctype="multipart/form-data">
+        <input type="hidden" asp-for="id" />
+        <input type="hidden" asp-for="Images[0].image_id" />
+        <input type="hidden" asp-for="Images[1].image_id" />
+        <input type="hidden" asp-for="Variants[0].variant_id" />
+        <input type="hidden" asp-for="Variants[1].variant_id" />
+
+        <div class="row">
+            <div class="col-md-6">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Title" class="control-label"></label>
+                    <input asp-for="Title" class="form-control" />
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label"></label>
+                    <input asp-for="Description" class="form-control" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Type" class="control-label"></label>
+                    <input asp-for="Type" class="form-control" />
+                    <span asp-validation-for="Type" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Brand" class="control-label"></label>
+                    <input asp-for="Brand" class="form-control" />
+                    <span asp-validation-for="Brand" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="CategoryName" class="control-label"></label>
+                    <input asp-for="CategoryName" class="form-control" />
+                    <span asp-validation-for="CategoryName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Collection" class="control-label">Collection (Comma Separated)</label>
+                    <input type="text" id="CollectionInput" class="form-control" value="@string.Join(",", Model.Collection)" />
+                    <input type="hidden" asp-for="Collection" id="CollectionHidden" />
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Tags" class="control-label">Tags (Comma Separated)</label>
+                    <input type="text" id="TagsInput" class="form-control" value="@string.Join(",", Model.Tags)" />
+                    <input type="hidden" asp-for="Tags" id="TagsHidden" />
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Price" class="control-label"></label>
+                    <input asp-for="Price" class="form-control" type="number" step="0.01" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Discount" class="control-label"></label>
+                    <input asp-for="Discount" class="form-control" />
+                    <span asp-validation-for="Discount" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <h5>Product Variant1</h5>
+                <div class="form-group">
+                    <label asp-for="Variants[0].sku" class="control-label">SKU</label>
+                    <input asp-for="Variants[0].sku" class="form-control" />
+
+                    <label asp-for="Variants[0].color" class="control-label">Color</label>
+                    <input asp-for="Variants[0].color" class="form-control" />
+
+                    <label asp-for="Variants[0].size" class="control-label">Size</label>
+                    <input asp-for="Variants[0].size" class="form-control" />
+                </div>
+
+                <h5>Product Image1</h5>
+                <div class="form-group">
+                    <label asp-for="Images[0].alt" class="control-label">Alt Text</label>
+                    <input asp-for="Images[0].alt" class="form-control" />
+
+                    <label>Upload Image</label>
+                    <input type="file" name="Images[0].ImageFile" class="form-control" />
+                </div>
+
+                <h5>Product Variant2</h5>
+                <div class="form-group">
+                    <label asp-for="Variants[1].sku" class="control-label">SKU</label>
+                    <input asp-for="Variants[1].sku" class="form-control" />
+
+                    <label asp-for="Variants[1].color" class="control-label">Color</label>
+                    <input asp-for="Variants[1].color" class="form-control" />
+
+                    <label asp-for="Variants[1].size" class="control-label">Size</label>
+                    <input asp-for="Variants[1].size" class="form-control" />
+                </div>
+
+                <h5>Product Image2</h5>
+                <div class="form-group">
+                    <label asp-for="Images[1].alt" class="control-label">Alt Text</label>
+                    <input asp-for="Images[1].alt" class="form-control" />
+
+                    <label>Upload Image</label>
+                    <input type="file" name="Images[1].ImageFile" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 text-center mt-3">
+                <input type="submit" value="Edit" class="btn btn-primary" />
+            </div>
+        </div>
+    </form>
+</div>
+
+<div class="mt-3">
+    <a asp-action="ProductIndex" class="btn btn-secondary">Back to List</a>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        document.querySelector("form").addEventListener("submit", function () {
+            document.getElementById("CollectionHidden").value = document.getElementById("CollectionInput").value.split(",").map(item => item.trim());
+            document.getElementById("TagsHidden").value = document.getElementById("TagsInput").value.split(",").map(item => item.trim());
+        });
+    </script>
+}

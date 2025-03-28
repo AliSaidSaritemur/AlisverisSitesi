@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DefineX.Services.ProductAPI.props" />
+</Project>

@@ -1,0 +1,119 @@
+﻿@{
+    ViewData["Title"] = "Admin Sohbet Paneli";
+}
+
+<h2>Admin Sohbet Paneli</h2>
+
+
+<p id="noChatMessage">Henüz kullanıcılar herhangi bir sohbet başlatmadı.</p>
+
+
+<div id="chatBoxes"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.9/signalr.min.js"></script>
+<script>
+    const connection = new signalR.HubConnectionBuilder()
+        .withUrl("https://localhost:7214/chathub?userId=Admin")
+        .withAutomaticReconnect()
+        .build();
+
+    connection.on("ReceiveMessage", (user, message) => {
+        let chatBox = document.getElementById(user);
+        if (!chatBox) {
+            document.getElementById("noChatMessage").style.display = "none"; 
+
+            chatBox = document.createElement("div");
+            chatBox.id = user;
+            chatBox.className = "chat-box";
+            chatBox.innerHTML = `
+                <h3>${user}</h3>
+                <div class="messages"></div>
+                <input type="text" class="messageInput" id="input-${user}" placeholder="Mesajınızı yazın..." />
+                <button onclick="sendMessageToUser('${user}')">Gönder</button>`;
+            document.getElementById("chatBoxes").appendChild(chatBox);
+        }
+
+        if (message.includes("CHAT ENDED")) {
+            const msgContainer = chatBox.querySelector(".messages");
+
+
+            const inputField = chatBox.querySelector(".messageInput");
+            inputField.readOnly = true;
+            inputField.style.background = "#ddd";
+
+
+            const endMsg = document.createElement("p");
+            endMsg.style.color = "red";
+            endMsg.innerText = "Kullanıcı çıkış yaptı, sohbet 10 saniye içinde silinecek.";
+            msgContainer.appendChild(endMsg);
+
+
+            setTimeout(() => {
+                chatBox.remove();
+
+             
+                if (document.getElementById("chatBoxes").children.length === 0) {
+                    document.getElementById("noChatMessage").style.display = "block";
+                }
+            }, 10000);
+        } else {
+            const msgContainer = chatBox.querySelector(".messages");
+            const msgElement = document.createElement("p");
+            msgElement.innerHTML = `<strong>${user}:</strong> ${message}`;
+            msgContainer.appendChild(msgElement);
+        }
+    });
+
+  
+    function sendMessageToUser(user) {
+        const inputField = document.getElementById(`input-${user}`);
+        const message = inputField.value.trim();
+
+        if (message) {
+            connection.invoke("SendMessageToUser", user, message)
+                .catch(err => console.error(err));
+
+    
+            let chatBox = document.getElementById(user);
+            const msgContainer = chatBox.querySelector(".messages");
+            const msgElement = document.createElement("p");
+            msgElement.innerHTML = `<strong>Admin:</strong> ${message}`;
+            msgContainer.appendChild(msgElement);
+
+            inputField.value = ""; 
+        }
+    }
+
+    connection.start().catch(err => console.error(err));
+</script>
+
+
+<style>
+    .chat-box {
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        padding: 10px;
+        max-width: 500px;
+    }
+
+    .messages {
+        height: 200px;
+        border: 1px solid #ddd;
+        padding: 5px;
+        overflow-y: auto;
+        background: #f9f9f9;
+    }
+
+    .messageInput {
+        width: 70%;
+        padding: 5px;
+    }
+
+    button {
+        padding: 5px 10px;
+        background: blue;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+</style>

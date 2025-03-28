@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DefineXWeb.props" />
+</Project>

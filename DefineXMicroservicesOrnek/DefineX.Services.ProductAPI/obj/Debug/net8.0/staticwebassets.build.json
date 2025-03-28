@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RMeX26FEOGHdn9Rq1uUI7daPDMQ1CTFyvB6CpKBFdDE=",
+  "Source": "DefineX.Services.ProductAPI",
+  "BasePath": "_content/DefineX.Services.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

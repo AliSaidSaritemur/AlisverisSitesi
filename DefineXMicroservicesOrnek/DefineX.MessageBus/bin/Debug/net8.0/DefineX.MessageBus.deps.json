@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DefineX.MessageBus/1.0.0": {
+        "runtime": {
+          "DefineX.MessageBus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DefineX.MessageBus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

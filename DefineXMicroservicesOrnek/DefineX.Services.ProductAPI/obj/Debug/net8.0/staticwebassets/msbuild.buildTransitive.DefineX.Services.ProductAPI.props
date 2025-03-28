@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DefineX.Services.ProductAPI.props" />
+</Project>
