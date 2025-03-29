@@ -3,92 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AFDB4BC-1D6F-47D3-96BA-4A4272E4DB41}|APIGateway\\APIGateway.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AFDB4BC-1D6F-47D3-96BA-4A4272E4DB41}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD6037EB-51A4-4B96-A432-C81F9206C7BC}|SignalRChat-master\\SignalRChat.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\signalrchat-master\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DD6037EB-51A4-4B96-A432-C81F9206C7BC}|SignalRChat-master\\SignalRChat.csproj|solutionrelative:signalrchat-master\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD6037EB-51A4-4B96-A432-C81F9206C7BC}|SignalRChat-master\\SignalRChat.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\signalrchat-master\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DD6037EB-51A4-4B96-A432-C81F9206C7BC}|SignalRChat-master\\SignalRChat.csproj|solutionrelative:signalrchat-master\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD6037EB-51A4-4B96-A432-C81F9206C7BC}|SignalRChat-master\\SignalRChat.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\signalrchat-master\\signalrchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DD6037EB-51A4-4B96-A432-C81F9206C7BC}|SignalRChat-master\\SignalRChat.csproj|solutionrelative:signalrchat-master\\signalrchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definex.services.identity\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definexweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definexweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definexweb\\views\\shared\\_adminloginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\_adminloginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definexweb\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definex.services.identity\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definex.services.identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definex.services.identity\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definexweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definex.services.identity\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definexweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definexweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definexweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D9C8BB27-EEFF-45EA-B03B-89AB675A7306}|TestProductRepo\\TestProductRepo.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\testproductrepo\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8BB27-EEFF-45EA-B03B-89AB675A7306}|TestProductRepo\\TestProductRepo.csproj|solutionrelative:testproductrepo\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definex.services.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definexweb\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definex.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\alisverissitesi\\definexmicroservicesornek\\definexweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\TestProductRepo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestProductRepo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,276 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\APIGateway\\Program.cs",
-              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\APIGateway\\Program.cs",
-              "RelativeToolTip": "APIGateway\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Program.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T14:11:47.608Z",
+              "WhenOpened": "2025-03-29T22:23:44.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\SignalRChat-master\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "SignalRChat-master\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\SignalRChat-master\\Properties\\launchSettings.json",
-              "RelativeToolTip": "SignalRChat-master\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-28T12:11:42.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\SignalRChat-master\\appsettings.json",
-              "RelativeDocumentMoniker": "SignalRChat-master\\appsettings.json",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\SignalRChat-master\\appsettings.json",
-              "RelativeToolTip": "SignalRChat-master\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-28T12:11:37.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SignalRChat.csproj",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\SignalRChat-master\\SignalRChat.csproj",
-              "RelativeDocumentMoniker": "SignalRChat-master\\SignalRChat.csproj",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\SignalRChat-master\\SignalRChat.csproj",
-              "RelativeToolTip": "SignalRChat-master\\SignalRChat.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-28T12:11:33.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:55:49.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAewBUAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:42:56.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SD.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\SD.cs",
-              "RelativeDocumentMoniker": "DefineX.Services.Identity\\SD.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\SD.cs",
-              "RelativeToolTip": "DefineX.Services.Identity\\SD.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:38:17.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
-              "RelativeToolTip": "DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:35:38.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:28:24.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:09:34.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_AdminLoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
-              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
-              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:21:11.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:20:58.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductCreate.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
-              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
-              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:20:31.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "DefineXWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "DefineXWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:19:21.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "DefineXWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:19:17.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Program.cs",
-              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Program.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Program.cs",
-              "RelativeToolTip": "DefineX.Services.Identity\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAswD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:13:47.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "RelativeToolTip": "DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:09:34.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
               "RelativeToolTip": "DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:11:46.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "DefineXWeb\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\ProductService.cs",
-              "RelativeToolTip": "DefineXWeb\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:09:34.933Z",
+              "WhenOpened": "2025-03-29T20:55:55.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
-              "RelativeDocumentMoniker": "DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
-              "RelativeToolTip": "DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAAO0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\TestProductRepo\\ProductRepositoryTests.cs",
+              "RelativeDocumentMoniker": "TestProductRepo\\ProductRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\TestProductRepo\\ProductRepositoryTests.cs",
+              "RelativeToolTip": "TestProductRepo\\ProductRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:09:35.02Z"
+              "WhenOpened": "2025-03-29T20:48:11.563Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:10:55.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Program.cs",
-              "RelativeDocumentMoniker": "DefineXWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\Program.cs",
-              "RelativeToolTip": "DefineXWeb\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:10:45.729Z"
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\TestProductRepo\\packages.config",
+              "RelativeDocumentMoniker": "TestProductRepo\\packages.config",
+              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\TestProductRepo\\packages.config",
+              "RelativeToolTip": "TestProductRepo\\packages.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-29T20:27:20.668Z"
             }
           ]
         }

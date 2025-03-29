@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DefineX.Services.Identity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa3da6fddd09dd0d11f8db4b607ed327d55fce43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+873df57078507d85553402e8e1e820740d30c078")]
 [assembly: System.Reflection.AssemblyProductAttribute("DefineX.Services.Identity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DefineX.Services.Identity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

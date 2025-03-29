@@ -704,10 +704,10 @@ C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\Define
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.ProductAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DefineX.Services.ProductAPI.props
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.ProductAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DefineX.Services.ProductAPI.props
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.ProductAPI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.ProductAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.ProductAPI\obj\Debug\net8.0\DefineX..08CC93F1.Up2Date
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.ProductAPI\obj\Debug\net8.0\DefineX.Services.ProductAPI.dll
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.ProductAPI\obj\Debug\net8.0\refint\DefineX.Services.ProductAPI.dll
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.ProductAPI\obj\Debug\net8.0\DefineX.Services.ProductAPI.pdb
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.ProductAPI\obj\Debug\net8.0\DefineX.Services.ProductAPI.genruntimeconfig.cache
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.ProductAPI\obj\Debug\net8.0\ref\DefineX.Services.ProductAPI.dll
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.ProductAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

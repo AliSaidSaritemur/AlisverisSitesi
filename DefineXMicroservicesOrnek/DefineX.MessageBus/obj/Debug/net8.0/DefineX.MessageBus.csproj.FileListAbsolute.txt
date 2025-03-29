@@ -43,3 +43,15 @@ C:\Users\alisa\Documents\GitHub\DefineX.NetBootcamp\FinalOdevi\DefineXMicroservi
 C:\Users\alisa\Documents\GitHub\DefineX.NetBootcamp\FinalOdevi\DefineXMicroservicesOrnek\DefineX.MessageBus\obj\Debug\net8.0\refint\DefineX.MessageBus.dll
 C:\Users\alisa\Documents\GitHub\DefineX.NetBootcamp\FinalOdevi\DefineXMicroservicesOrnek\DefineX.MessageBus\obj\Debug\net8.0\DefineX.MessageBus.pdb
 C:\Users\alisa\Documents\GitHub\DefineX.NetBootcamp\FinalOdevi\DefineXMicroservicesOrnek\DefineX.MessageBus\obj\Debug\net8.0\ref\DefineX.MessageBus.dll
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.MessageBus\bin\Debug\net8.0\DefineX.MessageBus.deps.json
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.MessageBus\bin\Debug\net8.0\DefineX.MessageBus.dll
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.MessageBus\bin\Debug\net8.0\DefineX.MessageBus.pdb
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.MessageBus\obj\Debug\net8.0\DefineX.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.MessageBus\obj\Debug\net8.0\DefineX.MessageBus.AssemblyInfoInputs.cache
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.MessageBus\obj\Debug\net8.0\DefineX.MessageBus.AssemblyInfo.cs
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.MessageBus\obj\Debug\net8.0\DefineX.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.MessageBus\obj\Debug\net8.0\DefineX.MessageBus.sourcelink.json
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.MessageBus\obj\Debug\net8.0\DefineX.MessageBus.dll
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.MessageBus\obj\Debug\net8.0\refint\DefineX.MessageBus.dll
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.MessageBus\obj\Debug\net8.0\DefineX.MessageBus.pdb
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.MessageBus\obj\Debug\net8.0\ref\DefineX.MessageBus.dll
