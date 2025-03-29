@@ -87,7 +87,7 @@ const mutations = {
 // actions 
 const actions = {
     fetchProducts({ commit }) {
-        return fetch("https://localhost:44390/api/products") // <- return ekledik!
+        return fetch("https://localhost:7107/products") // <- return ekledik!
           .then((response) => response.json())
           .then((data) => {
             if (data.isSuccess && Array.isArray(data.result)) {
@@ -104,7 +104,7 @@ const actions = {
           });
       },
       fetchProductById({ commit }, id) {
-        return fetch(`https://localhost:44390/api/products/${id}`) // API endpointi ID'yi dinamik alacak şekilde güncellendi
+        return fetch(`https://localhost:7107/products/${id}`) // API endpointi ID'yi dinamik alacak şekilde güncellendi
           .then((response) => response.json())
           .then((data) => {
             if (data.isSuccess && data.result) {

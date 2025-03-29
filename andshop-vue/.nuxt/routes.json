@@ -2,358 +2,358 @@
   {
     "name": "404",
     "path": "/404",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\404.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\404.vue",
     "chunkName": "pages/404",
-    "_name": "_3b4f7da0"
+    "_name": "_785bf107"
   },
   {
     "name": "about-us",
     "path": "/about-us",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\about-us.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\about-us.vue",
     "chunkName": "pages/about-us",
-    "_name": "_5d939b16"
+    "_name": "_2067399f"
   },
   {
     "name": "blog",
     "path": "/blog",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\blog\\\\index.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\blog\\\\index.vue",
     "chunkName": "pages/blog/index",
-    "_name": "_51ebdf68"
+    "_name": "_fb6c6f82"
   },
   {
     "name": "cart",
     "path": "/cart",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\cart\\\\index.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\cart\\\\index.vue",
     "chunkName": "pages/cart/index",
-    "_name": "_26ce192a"
+    "_name": "_572c0201"
   },
   {
     "name": "coming-soon",
     "path": "/coming-soon",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\coming-soon.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\coming-soon.vue",
     "chunkName": "pages/coming-soon",
-    "_name": "_18be453f"
+    "_name": "_491c2e16"
   },
   {
     "name": "contact-us",
     "path": "/contact-us",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\contact-us\\\\index.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\contact-us\\\\index.vue",
     "chunkName": "pages/contact-us/index",
-    "_name": "_31955fff"
+    "_name": "_097de8d4"
   },
   {
     "name": "electronics",
     "path": "/electronics",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\electronics.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\electronics.vue",
     "chunkName": "pages/electronics",
-    "_name": "_61c35def"
+    "_name": "_dbbd7274"
   },
   {
     "name": "faq",
     "path": "/faq",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\faq.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\faq.vue",
     "chunkName": "pages/faq",
-    "_name": "_e36e37e4"
+    "_name": "_244c93e5"
   },
   {
     "name": "furniture",
     "path": "/furniture",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\furniture.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\furniture.vue",
     "chunkName": "pages/furniture",
-    "_name": "_11fe5aea"
+    "_name": "_acc2e4fe"
   },
   {
     "name": "grocery",
     "path": "/grocery",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\grocery.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\grocery.vue",
     "chunkName": "pages/grocery",
-    "_name": "_579ede85"
+    "_name": "_3bee6a48"
   },
   {
     "name": "login",
     "path": "/login",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\login.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
-    "_name": "_caabe23e"
+    "_name": "_82fdb610"
   },
   {
     "name": "lookbook",
     "path": "/lookbook",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\lookbook.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\lookbook.vue",
     "chunkName": "pages/lookbook",
-    "_name": "_7c027980"
+    "_name": "_f65b3c6e"
   },
   {
     "name": "my-account",
     "path": "/my-account",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\my-account\\\\index.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\my-account\\\\index.vue",
     "chunkName": "pages/my-account/index",
-    "_name": "_555adc84"
+    "_name": "_c2038556"
   },
   {
     "name": "pharmacy",
     "path": "/pharmacy",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\pharmacy.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\pharmacy.vue",
     "chunkName": "pages/pharmacy",
-    "_name": "_027fbf2a"
+    "_name": "_7cd88218"
   },
   {
     "name": "privacy-policy",
     "path": "/privacy-policy",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\privacy-policy.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\privacy-policy.vue",
     "chunkName": "pages/privacy-policy",
-    "_name": "_1b201662"
+    "_name": "_72cac898"
   },
   {
     "name": "register",
     "path": "/register",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\register.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\register.vue",
     "chunkName": "pages/register",
-    "_name": "_322a925b"
+    "_name": "_16039e38"
   },
   {
     "name": "shop",
     "path": "/shop",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\shop\\\\index.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\shop\\\\index.vue",
     "chunkName": "pages/shop/index",
-    "_name": "_07459794"
+    "_name": "_37a3806b"
   },
   {
     "name": "SignalRMessage",
     "path": "/SignalRMessage",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\SignalRMessage.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\SignalRMessage.vue",
     "chunkName": "pages/SignalRMessage",
-    "_name": "_20aca8d5"
+    "_name": "_bdf106c4"
   },
   {
     "name": "vendor-dashboard",
     "path": "/vendor-dashboard",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\vendor-dashboard\\\\index.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\vendor-dashboard\\\\index.vue",
     "chunkName": "pages/vendor-dashboard/index",
-    "_name": "_1598489b"
+    "_name": "_9f36b21c"
   },
   {
     "name": "blog-blog-2",
     "path": "/blog/blog-2",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\blog\\\\blog-2.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\blog\\\\blog-2.vue",
     "chunkName": "pages/blog/blog-2",
-    "_name": "_759aaea1"
+    "_name": "_50f9e0aa"
   },
   {
     "name": "blog-blog-3",
     "path": "/blog/blog-3",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\blog\\\\blog-3.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\blog\\\\blog-3.vue",
     "chunkName": "pages/blog/blog-3",
-    "_name": "_75a8c622"
+    "_name": "_5107f82b"
   },
   {
     "name": "blog-blog-single-2",
     "path": "/blog/blog-single-2",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\blog\\\\blog-single-2.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\blog\\\\blog-single-2.vue",
     "chunkName": "pages/blog/blog-single-2",
-    "_name": "_52af5164"
+    "_name": "_37d10db6"
   },
   {
     "name": "cart-cart-2",
     "path": "/cart/cart-2",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\cart\\\\cart-2.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\cart\\\\cart-2.vue",
     "chunkName": "pages/cart/cart-2",
-    "_name": "_8ca63bc6"
+    "_name": "_d5e7d7b4"
   },
   {
     "name": "cart-cart-3",
     "path": "/cart/cart-3",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\cart\\\\cart-3.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\cart\\\\cart-3.vue",
     "chunkName": "pages/cart/cart-3",
-    "_name": "_8c8a0cc4"
+    "_name": "_d5cba8b2"
   },
   {
     "name": "cart-cart-4",
     "path": "/cart/cart-4",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\cart\\\\cart-4.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\cart\\\\cart-4.vue",
     "chunkName": "pages/cart/cart-4",
-    "_name": "_8c6dddc2"
+    "_name": "_d5af79b0"
   },
   {
     "name": "cart-empty-cart",
     "path": "/cart/empty-cart",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\cart\\\\empty-cart.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\cart\\\\empty-cart.vue",
     "chunkName": "pages/cart/empty-cart",
-    "_name": "_1f7f8378"
+    "_name": "_1716edfe"
   },
   {
     "name": "contact-us-contact-us-2",
     "path": "/contact-us/contact-us-2",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\contact-us\\\\contact-us-2.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\contact-us\\\\contact-us-2.vue",
     "chunkName": "pages/contact-us/contact-us-2",
-    "_name": "_6b927c9a"
+    "_name": "_ee13a388"
   },
   {
     "name": "my-account-account-details",
     "path": "/my-account/account-details",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\my-account\\\\account-details.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\my-account\\\\account-details.vue",
     "chunkName": "pages/my-account/account-details",
-    "_name": "_a69e6ae4"
+    "_name": "_32e82565"
   },
   {
     "name": "my-account-account-info-edit",
     "path": "/my-account/account-info-edit",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\my-account\\\\account-info-edit.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\my-account\\\\account-info-edit.vue",
     "chunkName": "pages/my-account/account-info-edit",
-    "_name": "_1cbac795"
+    "_name": "_1af26ea8"
   },
   {
     "name": "my-account-addresses",
     "path": "/my-account/addresses",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\my-account\\\\addresses.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\my-account\\\\addresses.vue",
     "chunkName": "pages/my-account/addresses",
-    "_name": "_637b9ae4"
+    "_name": "_3c703aa5"
   },
   {
     "name": "my-account-checkout-1",
     "path": "/my-account/checkout-1",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\my-account\\\\checkout-1.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\my-account\\\\checkout-1.vue",
     "chunkName": "pages/my-account/checkout-1",
-    "_name": "_bed7e7a4"
+    "_name": "_0fb1f212"
   },
   {
     "name": "my-account-checkout-2",
     "path": "/my-account/checkout-2",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\my-account\\\\checkout-2.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\my-account\\\\checkout-2.vue",
     "chunkName": "pages/my-account/checkout-2",
-    "_name": "_bebbb8a2"
+    "_name": "_0f95c310"
   },
   {
     "name": "my-account-compare",
     "path": "/my-account/compare",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\my-account\\\\compare.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\my-account\\\\compare.vue",
     "chunkName": "pages/my-account/compare",
-    "_name": "_bd7c415e"
+    "_name": "_a29dfdb0"
   },
   {
     "name": "my-account-downloads",
     "path": "/my-account/downloads",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\my-account\\\\downloads.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\my-account\\\\downloads.vue",
     "chunkName": "pages/my-account/downloads",
-    "_name": "_42939952"
+    "_name": "_4ce43b6e"
   },
   {
     "name": "my-account-order-tracking",
     "path": "/my-account/order-tracking",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\my-account\\\\order-tracking.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\my-account\\\\order-tracking.vue",
     "chunkName": "pages/my-account/order-tracking",
-    "_name": "_2922991a"
+    "_name": "_35b90763"
   },
   {
     "name": "my-account-orders",
     "path": "/my-account/orders",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\my-account\\\\orders.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\my-account\\\\orders.vue",
     "chunkName": "pages/my-account/orders",
-    "_name": "_4d8ed3ae"
+    "_name": "_45025d72"
   },
   {
     "name": "my-account-wishlist",
     "path": "/my-account/wishlist",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\my-account\\\\wishlist.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\my-account\\\\wishlist.vue",
     "chunkName": "pages/my-account/wishlist",
-    "_name": "_71465e09"
+    "_name": "_11bb7712"
   },
   {
     "name": "product-product-single-2",
     "path": "/product/product-single-2",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\product\\\\product-single-2.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\product\\\\product-single-2.vue",
     "chunkName": "pages/product/product-single-2",
-    "_name": "_4c5cb69c"
+    "_name": "_1a006d6e"
   },
   {
     "name": "product-product-single-3",
     "path": "/product/product-single-3",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\product\\\\product-single-3.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\product\\\\product-single-3.vue",
     "chunkName": "pages/product/product-single-3",
-    "_name": "_4c40879a"
+    "_name": "_19e43e6c"
   },
   {
     "name": "shop-shop-2",
     "path": "/shop/shop-2",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\shop\\\\shop-2.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\shop\\\\shop-2.vue",
     "chunkName": "pages/shop/shop-2",
-    "_name": "_2f5ed849"
+    "_name": "_0abe0a52"
   },
   {
     "name": "shop-shop-3",
     "path": "/shop/shop-3",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\shop\\\\shop-3.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\shop\\\\shop-3.vue",
     "chunkName": "pages/shop/shop-3",
-    "_name": "_2f6cefca"
+    "_name": "_0acc21d3"
   },
   {
     "name": "shop-shop-4",
     "path": "/shop/shop-4",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\shop\\\\shop-4.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\shop\\\\shop-4.vue",
     "chunkName": "pages/shop/shop-4",
-    "_name": "_2f7b074b"
+    "_name": "_0ada3954"
   },
   {
     "name": "shop-shop-5",
     "path": "/shop/shop-5",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\shop\\\\shop-5.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\shop\\\\shop-5.vue",
     "chunkName": "pages/shop/shop-5",
-    "_name": "_2f891ecc"
+    "_name": "_0ae850d5"
   },
   {
     "name": "vendor-dashboard-add-product",
     "path": "/vendor-dashboard/add-product",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\vendor-dashboard\\\\add-product.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\vendor-dashboard\\\\add-product.vue",
     "chunkName": "pages/vendor-dashboard/add-product",
-    "_name": "_419d0e4c"
+    "_name": "_17690f63"
   },
   {
     "name": "vendor-dashboard-order",
     "path": "/vendor-dashboard/order",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\vendor-dashboard\\\\order.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\vendor-dashboard\\\\order.vue",
     "chunkName": "pages/vendor-dashboard/order",
-    "_name": "_2e630917"
+    "_name": "_6da13124"
   },
   {
     "name": "vendor-dashboard-product",
     "path": "/vendor-dashboard/product",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\vendor-dashboard\\\\product.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\vendor-dashboard\\\\product.vue",
     "chunkName": "pages/vendor-dashboard/product",
-    "_name": "_b2be6410"
+    "_name": "_80621ae2"
   },
   {
     "name": "vendor-dashboard-profile",
     "path": "/vendor-dashboard/profile",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\vendor-dashboard\\\\profile.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\vendor-dashboard\\\\profile.vue",
     "chunkName": "pages/vendor-dashboard/profile",
-    "_name": "_0a209db2"
+    "_name": "_234ec249"
   },
   {
     "name": "vendor-dashboard-setting",
     "path": "/vendor-dashboard/setting",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\vendor-dashboard\\\\setting.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\vendor-dashboard\\\\setting.vue",
     "chunkName": "pages/vendor-dashboard/setting",
-    "_name": "_0f7f124e"
+    "_name": "_116e9b70"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_5dfb286c"
+    "_name": "_164cfc3e"
   },
   {
     "name": "blog-slug",
     "path": "/blog/:slug",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\blog\\\\_slug.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\blog\\\\_slug.vue",
     "chunkName": "pages/blog/_slug",
-    "_name": "_50353e20"
+    "_name": "_fed9b212"
   },
   {
     "name": "product-id",
     "path": "/product/:id?",
-    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\product\\\\_id.vue",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\AlisverisSitesi\\\\andshop-vue\\\\pages\\\\product\\\\_id.vue",
     "chunkName": "pages/product/_id",
-    "_name": "_3a2f133a"
+    "_name": "_8370af28"
   }
 ]

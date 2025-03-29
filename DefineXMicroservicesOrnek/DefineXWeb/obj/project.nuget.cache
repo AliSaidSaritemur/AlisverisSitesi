@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IQ1khMIFaCc=",
+  "dgSpecHash": "gLeoLP+u6pA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\DefineXWeb.csproj",
+  "projectFilePath": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineXWeb\\DefineXWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alisa\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\alisa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

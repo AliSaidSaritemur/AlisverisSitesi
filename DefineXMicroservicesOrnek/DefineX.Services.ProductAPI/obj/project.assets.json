@@ -4451,11 +4451,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
+      "projectUniqueName": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
       "projectName": "DefineX.Services.ProductAPI",
-      "projectPath": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
+      "projectPath": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
       "packagesPath": "C:\\Users\\alisa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\obj\\",
+      "outputPath": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

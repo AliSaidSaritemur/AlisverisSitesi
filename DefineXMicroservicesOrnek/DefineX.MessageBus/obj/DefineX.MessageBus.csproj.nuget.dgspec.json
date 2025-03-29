@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\DefineX.MessageBus.csproj": {}
+    "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\DefineX.MessageBus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\DefineX.MessageBus.csproj": {
+    "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\DefineX.MessageBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\DefineX.MessageBus.csproj",
+        "projectUniqueName": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\DefineX.MessageBus.csproj",
         "projectName": "DefineX.MessageBus",
-        "projectPath": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\DefineX.MessageBus.csproj",
+        "projectPath": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\DefineX.MessageBus.csproj",
         "packagesPath": "C:\\Users\\alisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\obj\\",
+        "outputPath": "C:\\Users\\alisa\\Documents\\GitHub\\AlisverisSitesi\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
