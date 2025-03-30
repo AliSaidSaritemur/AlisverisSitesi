@@ -33,6 +33,7 @@ namespace DefineX.Services.ProductAPI.dbcontexts
                 tags = new[] { "new", "s", "m", "yellow", "white" },
                 IsHot = true,
                 discount = "40",
+                stock=4,
                 IsNew = true
             }, new Product
             {
@@ -47,6 +48,7 @@ namespace DefineX.Services.ProductAPI.dbcontexts
                 tags = new[] { "s", "m", "l", "olive", "navy" },
                 IsHot = false,
                 discount = "40",
+                stock = 2,
                 IsNew = false
             }, new Product
             {
@@ -60,6 +62,7 @@ namespace DefineX.Services.ProductAPI.dbcontexts
                 Price = 174,
                 tags = new[] { "nike", "l", "m", "red", "black" },
                 IsHot = false,
+                stock = 4,
                 discount = "20",
                 IsNew = true
             }, new Product
@@ -75,6 +78,7 @@ namespace DefineX.Services.ProductAPI.dbcontexts
                 tags = new[] { "s", "l", "green", "skyblue", "geox" },
                 IsHot = true,
                 discount = "0",
+                stock = 2,
                 IsNew = false
             }, new Product
             {
@@ -89,6 +93,7 @@ namespace DefineX.Services.ProductAPI.dbcontexts
                 tags = new[] { "m", "l", "green", "black", "biba" },
                 IsHot = false,
                 discount = "0",
+                stock = 34,
                 IsNew = true
             }, new Product
             {
@@ -102,6 +107,7 @@ namespace DefineX.Services.ProductAPI.dbcontexts
                 Price = 121,
                 tags = new[] { "new", "s", "m", "olive", "gray" },
                 IsHot = false,
+                stock = 32,
                 discount = "40",
                 IsNew = true
             },
@@ -118,6 +124,7 @@ namespace DefineX.Services.ProductAPI.dbcontexts
                 tags = new[] { "xs", "s", "m", "red", "pink" },
                 IsHot = false,
                 discount = "40",
+                stock = 21,
                 IsNew = false
             }
             );

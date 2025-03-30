@@ -6,7 +6,7 @@
       <p>Loading product details...</p>
     </div>
     <template v-else>
-    <!-- Banner Area -->
+
     <section id="common_banner_one">
       <div class="container">
         <div class="row">
@@ -401,7 +401,7 @@
 import ProductBox1 from "~/components/product-box/ProductBox1";
 import InstagramArea from "~/components/instagram/InstagramArea";
 import RelatedProducts from "~/components/widgets/RelatedProducts";
-import { mapActions, mapGetters, mapState } from "vuex";
+import { mapActions, mapGetters } from "vuex";
 
 export default {
   name: "product-single",
@@ -446,7 +446,6 @@ export default {
     ...mapGetters('products', ['getProductById']),
     getDetail() {
     
-      console.log("Computed VEri iiiiiiiii   "+this.getProductById);
       return this.getProductById||{} ;
     },
     swiper() {
@@ -458,24 +457,21 @@ export default {
     await this.fetchProductById(this.$route.params.id); 
    
    const interval =setInterval(async () => {
-      console.log("Bekliyoruz");
 
-      // Eğer veri geldi ise, döngüyü durdur
+
+
       if (this.getProductById != null) {
-        console.log("Veri geldi", this.getProductById);
-        clearInterval(interval); // Döngüyü durdur
+        clearInterval(interval); 
       }
     }, 1000);
     this.loading = false;
-   console.log("Burayızzzzzzzzzz" +this.getProductById);
-   console.log("bittttttti");
-// sayfa yüklendiğinde todos verilerini çekiyoruz
+
+
   },
   async mounted() {
     try {
 
-      //this.productDetail =await this.fetchProductById(this.$route.params.id
-      // Set default values after data is loaded
+      
       if (this.getDetail.variants?.length) {
         this.activeColor = this.getDetail.variants[0].color;
         this.sizeVariant(this.getDetail.variants[0].image_id);
@@ -485,7 +481,7 @@ export default {
       this.relatedProducts();
     } catch (error) {
       console.error("Error loading product:", error);
-      // You might want to show an error message to the user here
+     
     } finally {
       this.loading = true;
     }
@@ -495,8 +491,6 @@ export default {
 
       getFetch: async function () {
         await this.fetchProductById(this.$route.params.id);
-        console.log("Burayızzzzzzzzzz" +this.getProductById);
-        console.log("bittttttti");
       }
     ,
     ...mapActions("products", ["fetchProductById"]),

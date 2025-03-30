@@ -19,5 +19,6 @@ namespace DefineXWeb.Models
         public bool IsNew { get; set; }
         public VariantViewModel[] Variants { get; set; }
         public ProductImageViewModel[] Images { get; set; }
+        public int Stock { get; set; }
     }
 }

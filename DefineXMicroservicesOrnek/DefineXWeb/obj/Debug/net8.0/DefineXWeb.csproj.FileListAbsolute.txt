@@ -2702,7 +2702,6 @@ C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\Define
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineXWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DefineXWeb.props
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineXWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DefineXWeb.props
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineXWeb\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineXWeb\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineXWeb\obj\Debug\net8.0\DefineXWeb.csproj.Up2Date
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineXWeb\obj\Debug\net8.0\DefineXWeb.dll
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineXWeb\obj\Debug\net8.0\refint\DefineXWeb.dll

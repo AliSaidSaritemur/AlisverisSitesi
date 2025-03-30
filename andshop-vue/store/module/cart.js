@@ -1,83 +1,92 @@
 import products from '../../data/products'
 
 const state = {
-  products: products.data,
+  products: [],
   cart: []
 }
+
 // getters
 const getters = {
-  cartItems: (state) => {
-    return state.cart
-  },
-  // cartTotalAmount: (state) => {
-  //     return state.cart.reduce( (total, product) => {
-  //         return total + (product.price * product.quantity)
-  //       }, 0 )
-  // },
+  cartItems: (state) => state.cart,
   cartTotalAmount: (state) => {
-    return state.cart.reduce( (total, product) => {
-      return total + ( (product.price - ( product.price * product.discount / 100) ) * product.quantity)
-      }, 0 )
+    return state.cart.reduce((total, product) => {
+      return total + ((product.price - (product.price * product.discount / 100)) * product.quantity);
+    }, 0);
   }
 }
+
 // actions
 const actions = {
-  addToCart: (context, payload) => {
-    context.commit('addToCart', payload)
+  fetchProducts({ commit }) {
+    return fetch("https://localhost:7107/products")
+      .then(response => response.json())
+      .then(data => {
+        if (data.isSuccess && Array.isArray(data.result)) {
+          commit("setProducts", data.result);
+        } else {
+          throw new Error("Veri çekilemedi veya result dizisi bulunamadı");
+        }
+      })
+      .catch(error => console.error("Ürünler alınırken hata oluştu:", error));
   },
-  updateCartQuantity: (context, payload) => {
-    context.commit('updateCartQuantity', payload)
+  fetchProductById({ commit }, id) {
+    return fetch(`https://localhost:7107/products/${id}`)
+      .then(response => response.json())
+      .then(data => {
+        if (data.isSuccess && data.result) {
+          commit("addToCart", data.result);
+        } else {
+          throw new Error("Ürün bulunamadı");
+        }
+      })
+      .catch(error => console.error("Ürün alınırken hata oluştu:", error));
   },
-  removeCartItem: (context, payload) => {
-      context.commit('removeCartItem', payload)
+  addToCart({ commit }, payload) {
+    return fetch(`https://localhost:7107/products/${payload.id}`)
+      .then(response => response.json())
+      .then(data => {
+        if (data.isSuccess && data.result) {
+          commit("addToCart", { product: data.result, quantity: payload.quantity });
+        } else {
+          throw new Error("Ürün bulunamadı");
+        }
+      })
+      .catch(error => console.error("Ürün eklenirken hata oluştu:", error));
+  },
+  updateCartQuantity({ commit }, payload) {
+    commit('updateCartQuantity', payload);
+  },
+  removeCartItem({ commit }, payload) {
+    commit('removeCartItem', payload);
   }
 }
 
 // mutations
 const mutations = {
-  addToCart: (state, payload) => {
-    const product = state.products.find(item => item.id === payload.id)
-    const cartItems = state.cart.find(item => item.id === payload.id)
-    const qty = payload.quantity ? payload.quantity : 1
-    if (cartItems) {
-      cartItems.quantity = qty
+  setProducts(state, products) {
+    state.products = products;
+  },
+  addToCart(state, { product, quantity }) {
+    const cartItem = state.cart.find(item => item.id === product.id);
+    const qty = quantity ? quantity : 1;
+    
+    if (cartItem) {
+      cartItem.quantity += qty;
     } else {
-      state.cart.push({
-        ...product,
-        quantity: qty
-      })
+      state.cart.push({ ...product, quantity: qty });
     }
-    product.stock--
   },
-  updateCartQuantity: (state, payload) => {
-    // Calculate Product Stock Counts
-    function calculateStockCounts(product, quantity) {
-      const qty = product.quantity + quantity
-      const stock = product.stock
-      if (stock < qty) {
-        return false
-      }
-      return true
+  updateCartQuantity(state, payload) {
+    const cartItem = state.cart.find(item => item.id === payload.product.id);
+    if (cartItem) {
+      cartItem.quantity = payload.quantity;
     }
-    state.cart.find((items, index) => {
-      if (items.id === payload.product.id) {
-        const qty = state.cart[index].quantity + payload.qty
-        const stock = calculateStockCounts(state.cart[index], payload.qty)
-        if (qty !== 0 && stock) {
-          state.cart[index].quantity = qty
-        } else {
-
-        }
-        return true
-      }
-    })
   },
-  removeCartItem: (state, payload) => {
-      const index = state.cart.indexOf(payload)
-      state.cart.splice(index, 1)
+  removeCartItem(state, payload) {
+    state.cart = state.cart.filter(item => item.id !== payload.id);
   }
-
 }
+
 export default {
   namespaced: true,
   state,

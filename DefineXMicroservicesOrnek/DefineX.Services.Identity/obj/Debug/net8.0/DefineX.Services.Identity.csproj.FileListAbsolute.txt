@@ -490,10 +490,10 @@ C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\Define
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.Identity\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DefineX.Services.Identity.props
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.Identity\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DefineX.Services.Identity.props
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.Identity\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.Identity\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.Identity\obj\Debug\net8.0\DefineX..639ED9D9.Up2Date
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.Identity\obj\Debug\net8.0\DefineX.Services.Identity.dll
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.Identity\obj\Debug\net8.0\refint\DefineX.Services.Identity.dll
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.Identity\obj\Debug\net8.0\DefineX.Services.Identity.pdb
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.Identity\obj\Debug\net8.0\DefineX.Services.Identity.genruntimeconfig.cache
 C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.Identity\obj\Debug\net8.0\ref\DefineX.Services.Identity.dll
+C:\Users\alisa\Documents\GitHub\AlisverisSitesi\DefineXMicroservicesOrnek\DefineX.Services.Identity\bin\Debug\net8.0\keys\is-signing-key-58496D4440F16BDC05348A39F5963819.json

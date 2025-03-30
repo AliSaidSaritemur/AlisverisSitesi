@@ -66,6 +66,9 @@ namespace DefineX.Services.ProductAPI.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("stock")
+                        .HasColumnType("int");
+
                     b.Property<string>("tags")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -88,6 +91,7 @@ namespace DefineX.Services.ProductAPI.Migrations
                             Title = "Black T-Shirt For Woman",
                             Type = "fashion",
                             discount = "40",
+                            stock = 4,
                             tags = "[\"new\",\"s\",\"m\",\"yellow\",\"white\"]"
                         },
                         new
@@ -103,6 +107,7 @@ namespace DefineX.Services.ProductAPI.Migrations
                             Title = "T-Shirt Form Girls",
                             Type = "fashion",
                             discount = "40",
+                            stock = 2,
                             tags = "[\"s\",\"m\",\"l\",\"olive\",\"navy\"]"
                         },
                         new
@@ -118,6 +123,7 @@ namespace DefineX.Services.ProductAPI.Migrations
                             Title = "White Black Line Dress",
                             Type = "fashion",
                             discount = "20",
+                            stock = 4,
                             tags = "[\"nike\",\"l\",\"m\",\"red\",\"black\"]"
                         },
                         new
@@ -133,6 +139,7 @@ namespace DefineX.Services.ProductAPI.Migrations
                             Title = "Blue Dress For Woman",
                             Type = "fashion",
                             discount = "0",
+                            stock = 2,
                             tags = "[\"s\",\"l\",\"green\",\"skyblue\",\"geox\"]"
                         },
                         new
@@ -148,6 +155,7 @@ namespace DefineX.Services.ProductAPI.Migrations
                             Title = "Black T-Shirt For Woman",
                             Type = "fashion",
                             discount = "0",
+                            stock = 34,
                             tags = "[\"m\",\"l\",\"green\",\"black\",\"biba\"]"
                         },
                         new
@@ -163,6 +171,7 @@ namespace DefineX.Services.ProductAPI.Migrations
                             Title = "Blue Dress For Woman",
                             Type = "fashion",
                             discount = "40",
+                            stock = 32,
                             tags = "[\"new\",\"s\",\"m\",\"olive\",\"gray\"]"
                         },
                         new
@@ -178,6 +187,7 @@ namespace DefineX.Services.ProductAPI.Migrations
                             Title = "boho tops",
                             Type = "fashion",
                             discount = "40",
+                            stock = 21,
                             tags = "[\"xs\",\"s\",\"m\",\"red\",\"pink\"]"
                         });
                 });

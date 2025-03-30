@@ -16,7 +16,7 @@ namespace DefineX.Services.ProductAPI.Models
         public string[] Collection { get; set; }
         public double Price { get; set; }
         public string[] tags { get; set; }
-
+        public int stock { get; set; }
         public bool IsHot { get; set; } = false;
         public string discount { get; set; } = "0%";
         public bool IsNew { get; set; } = true;

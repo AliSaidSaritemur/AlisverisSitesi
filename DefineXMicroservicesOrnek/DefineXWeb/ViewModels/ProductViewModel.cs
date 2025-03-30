@@ -15,7 +15,7 @@ namespace DefineXWeb.ViewModels
         public string[] Tags { get; set; }
         public string Discount { get; set; }
         public bool IsHot { get; set; }
-
+        public int Stock { get; set; }
         public bool IsNew { get; set; }
         public VariantViewModel[] Variants { get; set; }
         public ProductImageViewModel[] Images { get; set; }

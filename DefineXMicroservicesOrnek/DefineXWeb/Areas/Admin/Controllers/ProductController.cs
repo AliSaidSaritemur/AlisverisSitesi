@@ -44,23 +44,24 @@ namespace DefineXWeb.Areas.Admin.Controllers
             if (ModelState.IsValid)
               {
             var accessToken = await HttpContext.GetTokenAsync("access_token");
-       
-            ProductDto productDto = new ProductDto
-            {
-                Title = model.Title,
-                Description = model.Description,
-                Type = model.Type,
-                Brand = model.Brand,
-                CategoryName = model.CategoryName,
-                Collection = model.Collection[0].Split(','),
-                Price = model.Price,
-                Tags = model.Tags[0].Split(','),
-                IsHot = false,
-                Discount = model.Discount,
-                IsNew = true,
-                Variants= model.Variants,
-                Images = model.Images
-            };
+
+                ProductDto productDto = new ProductDto
+                {
+                    Title = model.Title,
+                    Description = model.Description,
+                    Type = model.Type,
+                    Brand = model.Brand,
+                    CategoryName = model.CategoryName,
+                    Collection = model.Collection[0].Split(','),
+                    Price = model.Price,
+                    Tags = model.Tags[0].Split(','),
+                    IsHot = false,
+                    Discount = model.Discount,
+                    IsNew = true,
+                    Variants = model.Variants,
+                    Images = model.Images,
+                    Stock = model.Stock
+                };
 
 
             var response = await _productService.CreateProductAsync<ResponseDto>(productDto, accessToken);
@@ -128,7 +129,8 @@ namespace DefineXWeb.Areas.Admin.Controllers
                     Discount = model.Discount,
                     IsNew = true,
                     Variants = model.Variants,
-                    Images = model.Images
+                    Images = model.Images,
+                    Stock = model.Stock
                 };
 
 
@@ -162,7 +164,8 @@ namespace DefineXWeb.Areas.Admin.Controllers
                     Discount = model.Discount,
                     IsNew = model.IsNew,
                     Variants = model.Variants,
-                    Images = model.Images
+                    Images = model.Images,
+                    Stock = model.Stock
                 };
 
                 var response = await _productService.UpdateProductAsync<ResponseDto>(productDto, accessToken);

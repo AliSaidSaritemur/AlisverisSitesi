@@ -7,20 +7,21 @@ const state = {
     wishlist: [],
     compare: [],
     searchProduct: [],
-    productById: null
+    productById: null,
+    
 }
 
-// getters 
+
 const getters = {
-    // 'completed' alanı olmadığı için, 'categoryName' ile filtreleme yapıyoruz
+
     getCompletedProducts: (state) => {
-        return state.products;  // Örnek kategori filtresi
+        return state.products; 
     },
     getcollectionProduct: (state) => {
-        return state.products;  // Kolleksiyonla filtreleme
+        return state.products; 
     },
     getProductById: (state) => {
-        return state.productById;  // API'den gelen ID'ye özel ürün verisi
+        return state.productById;  
     },
     wishlistItems: (state) => state.wishlist,
     compareItems: (state) => state.compare
@@ -29,12 +30,13 @@ const getters = {
 
 // mutations 
 const mutations = {
-    addToWishlist: (state, payload) => {
-        const product = state.products.find( item => item.id === payload.id )
+    addToWishlist: async (state, payload) => {
+       await  actions.fetchProductById({ commit: (mutation, data) => mutations[mutation](state, data) },payload.id);
+        const product = state.productById;
         const wishlistItems = state.wishlist.find( item => item.id === payload.id )
         if (wishlistItems) {
-
         } else {
+
             state.wishlist.push({
                 ...product
             })
@@ -45,6 +47,7 @@ const mutations = {
         state.wishlist.splice(index, 1)
     },
     addToCompare: (state, payload) => {
+        console.log("payload", payload)
         const product = state.products.find(item => item.id === payload.id)
         const compareItems = state.compare.find(item => item.id === payload.id)
         if (compareItems) {
@@ -104,20 +107,21 @@ const actions = {
           });
       },
       fetchProductById({ commit }, id) {
-        return fetch(`https://localhost:7107/products/${id}`) // API endpointi ID'yi dinamik alacak şekilde güncellendi
+        console.log("Fetching product by ID...", id);
+        return fetch(`https://localhost:7107/products/${id}`)
           .then((response) => response.json())
           .then((data) => {
             if (data.isSuccess && data.result) {
               console.log("Fetching product by ID...", data.result);
-              commit("setProductById", data.result); // Veriyi mutation ile state'e aktarıyoruza
-              return data.result; // İsteğe bağlı: Veriyi döndürebiliriz
+              commit("setProductById", data.result); 
+              return data.result; 
             } else {
               throw new Error("Veri çekilemedi veya ürün bulunamadı");
             }
           })
           .catch((error) => {
             console.error("Ürün alınırken hata oluştu:", error);
-            throw error; // Hata yayılsın
+            throw error; 
           });
       },
     addToWishlist: (context, payload) => {

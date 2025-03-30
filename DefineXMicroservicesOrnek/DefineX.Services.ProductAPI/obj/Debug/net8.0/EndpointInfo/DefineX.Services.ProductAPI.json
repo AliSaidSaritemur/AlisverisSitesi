@@ -250,6 +250,10 @@
             },
             "nullable": true
           },
+          "stock": {
+            "type": "integer",
+            "format": "int32"
+          },
           "isHot": {
             "type": "boolean"
           },

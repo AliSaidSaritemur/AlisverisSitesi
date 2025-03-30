@@ -14,7 +14,7 @@ namespace DefineX.Services.ProductAPI.dto
         public string[] Collection { get; set; }
         public double Price { get; set; }
         public string[] Tags { get; set; }
- 
+        public int Stock { get; set; }
         public bool IsHot { get; set; } = false;
         public string Discount { get; set; } = "0%";
         public bool IsNew { get; set; } = true;

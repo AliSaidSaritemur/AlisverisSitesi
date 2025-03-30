@@ -128,6 +128,7 @@ namespace DefineX.Services.ProductAPI.Repository
             IsHot = p.IsHot,
             Discount = p.discount,
             IsNew = p.IsNew,
+            Stock = p.stock,
             Variants = _db.Variants.Where(v => v.id == p.id).ToArray(),
             Images = _db.ProductImages.Where(i => i.id == p.id).ToArray()
         })
@@ -153,6 +154,7 @@ namespace DefineX.Services.ProductAPI.Repository
                 IsHot = p.IsHot,
                 Discount = p.discount,
                 IsNew = p.IsNew,
+                Stock = p.stock,
                 Variants = _db.Variants.Where(v => v.id == p.id).ToArray(),
                 Images = _db.ProductImages.Where(i => i.id == p.id).ToArray()
             }).ToListAsync();
